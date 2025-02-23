@@ -36,7 +36,6 @@
 2. Run the requirements.txt
 
 ```sh
-    cd Tetris
     pip install -r requirements.txt
 ```
 
