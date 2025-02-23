@@ -1,5 +1,7 @@
 # Tetris game in Python using Raylib
 
+![Tetris game](./images/tetris.png)
+
 ### Prerequisites
 
 - Python interpreter (e.g. 3.12.0)
